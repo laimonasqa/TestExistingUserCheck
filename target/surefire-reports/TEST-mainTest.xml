@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="mainTest" time="50.88" tests="1" errors="1" skipped="0" failures="0">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.6.0_21\jre\bin"/>
+    <property name="java.vm.version" value="17.0-b17"/>
+    <property name="java.vm.vendor" value="Sun Microsystems Inc."/>
+    <property name="java.vendor.url" value="http://java.sun.com/"/>
+    <property name="path.separator" value=";"/>
+    <property name="pwd" value="1111"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) Client VM"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="batch" value="carltonlivelabels"/>
+    <property name="user.country" value="US"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.os.patch.level" value="Service Pack 1"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="C:\Users\7155\workspace\GIT\selqlmaven"/>
+    <property name="java.runtime.version" value="1.6.0_21-b07"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.6.0_21\jre\lib\endorsed"/>
+    <property name="os.arch" value="x86"/>
+    <property name="java.io.tmpdir" value="C:\Users\7155.G2\AppData\Local\Temp\"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Sun Microsystems Inc."/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows 7"/>
+    <property name="classworlds.conf" value="C:\MavenBinaries\bin\..\bin\m2.conf"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.6.0_21\bin;.;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\ActiveState Komodo IDE 8\;C:\sybase\DataAccess\ADONET\dll;C:\sybase\DataAccess\OLEDB\dll;C:\sybase\DataAccess\ODBC\dll;C:\sybase\Shared\Sybase Central 4.3;C:\sybase\OCS-15_0\lib3p;C:\sybase\OCS-15_0\dll;C:\sybase\OCS-15_0\bin;c:\sybase\ASEP;C:\Program Files\Java\jdk1.6.0_21\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;c:\Program Files\Microsoft SQL Server\100\Tools\Binn\;c:\Program Files\Microsoft SQL Server\100\DTS\Binn\;C:\Program Files\TortoiseSVN\bin;D:\softwares\apache-maven-3.0.4\bin;D:\bin;c:\program files\cbt\bin;c:\sybase\SQLRemote\dll;C:\sybase\DBISQL\bin;c:\Program Files\Microsoft ASP.NET\ASP.NET Web Pages\v1.0\;C:\Program Files\Microsoft\Web Platform Installer\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\MavenBinaries\bin;C:\Program Files\Sikuli X\libs;C:\Program Files\Java\jre6\\bin;C:\Program Files\Sikuli\tmplib"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="50.0"/>
+    <property name="sun.management.compiler" value="HotSpot Client Compiler"/>
+    <property name="os.version" value="6.1"/>
+    <property name="user" value="mrt393489733"/>
+    <property name="user.home" value="C:\Users\7155.G2"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="java.specification.version" value="1.6"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="user.name" value="7155"/>
+    <property name="java.class.path" value="C:\MavenBinaries\bin\..\boot\plexus-classworlds-2.5.1.jar"/>
+    <property name="org.slf4j.simpleLogger.defaultLogLevel" value="info"/>
+    <property name="java.vm.specification.version" value="1.0"/>
+    <property name="sun.arch.data.model" value="32"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk1.6.0_21\jre"/>
+    <property name="java.specification.vendor" value="Sun Microsystems Inc."/>
+    <property name="user.language" value="en"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="java.version" value="1.6.0_21"/>
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.6.0_21\jre\lib\ext;C:\Windows\Sun\Java\lib\ext"/>
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.6.0_21\jre\lib\resources.jar;C:\Program Files\Java\jdk1.6.0_21\jre\lib\rt.jar;C:\Program Files\Java\jdk1.6.0_21\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.6.0_21\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.6.0_21\jre\lib\jce.jar;C:\Program Files\Java\jdk1.6.0_21\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.6.0_21\jre\classes"/>
+    <property name="java.vendor" value="Sun Microsystems Inc."/>
+    <property name="maven.home" value="C:\MavenBinaries\bin\.."/>
+    <property name="file.separator" value="\"/>
+    <property name="java.vendor.url.bug" value="http://java.sun.com/cgi-bin/bugreport.cgi"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="sun.cpu.isalist" value="pentium_pro+mmx pentium_pro pentium+mmx pentium i486 i386 i86"/>
+  </properties>
+  <testcase name="main" classname="mainTest" time="50.88">
+    <error message="Modal dialog present: Please enter a valid password&#10;Build info: version: &apos;2.35.0&apos;, revision: &apos;8df0c6bedf70ff9f22c647788f9fe9c8d22210e2&apos;, time: &apos;2013-08-17 12:46:41&apos;&#10;System info: os.name: &apos;Windows 7&apos;, os.arch: &apos;x86&apos;, os.version: &apos;6.1&apos;, java.version: &apos;1.6.0_21&apos;&#10;Session ID: c5a53f65-1c1b-47da-8d74-af2b4ddd273b&#10;Driver info: org.openqa.selenium.firefox.FirefoxDriver&#10;Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=firefox, rotatable=false, locationContextEnabled=true, version=25.0, cssSelectorsEnabled=true, databaseEnabled=true, handlesAlerts=true, browserConnectionEnabled=true, nativeEvents=true, webStorageEnabled=true, applicationCacheEnabled=true, takesScreenshot=true}]" type="org.openqa.selenium.UnhandledAlertException">org.openqa.selenium.UnhandledAlertException: Modal dialog present: Please enter a valid password
+Build info: version: '2.35.0', revision: '8df0c6bedf70ff9f22c647788f9fe9c8d22210e2', time: '2013-08-17 12:46:41'
+System info: os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.6.0_21'
+Session ID: c5a53f65-1c1b-47da-8d74-af2b4ddd273b
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=firefox, rotatable=false, locationContextEnabled=true, version=25.0, cssSelectorsEnabled=true, databaseEnabled=true, handlesAlerts=true, browserConnectionEnabled=true, nativeEvents=true, webStorageEnabled=true, applicationCacheEnabled=true, takesScreenshot=true}]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:39)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:27)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:513)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:191)
+	at org.openqa.selenium.remote.ErrorHandler.createUnhandledAlertException(ErrorHandler.java:172)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:141)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:554)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:569)
+	at org.openqa.selenium.remote.RemoteWebDriver.getCurrentUrl(RemoteWebDriver.java:291)
+	at tests.existingUser(tests.java:5085)
+	at tests.readdatabase(tests.java:415)
+	at tests.setUp(tests.java:4983)
+	at mainTest.main(mainTest.java:129)
+</error>
+    <system-out>-----------------------------------
+Automation Application Rev 0.023
+-----------------------------------
+Now Acquiring Batch from Database
+Batch successfully Adquired====&gt;carltonlivelabels
+-----------------------------------
+Acquiring Data from Batch
+-----------------------------------
+Data Successfully Adquired
+-----------------------------------
+Opening Site To Test
+-----------------------------------
+Acquiring Site Language
+-----------------------------------
+Site Language==english
+-----------------------------------
+Acquiring tests from batch
+-----------------------------------
+-----------------------------------
+IBN L1 Registration Test
+-----------------------------------
+Test Existing User --------------------------
+Generating Reports
+-----------------------------------
+All Tests Finished, please refer to email to see the report
+-----------------------------------
+</system-out>
+  </testcase>
+</testsuite>
