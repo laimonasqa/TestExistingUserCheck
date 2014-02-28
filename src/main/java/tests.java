@@ -90,14 +90,14 @@ public class tests {
   
   
   static Connection con = null;
-	static String servername="localhost";
+	/*static String servername="localhost";
 	static String username="root";
 	static String db="automation_dev";
-	static String pass="mysql";
-  	/*static String servername="192.168.100.214";
+	static String pass="mysql";*/
+  	static String servername="192.168.100.214";
 	static String username="daniel";
 	static String db="automation_dev";
-	static String pass="daniel";*/
+	static String pass="daniel";
 	public static String genlogin=""; //username to use in tests
 	public static ResultSet rs=null;
 	public static ResultSet ls=null;
