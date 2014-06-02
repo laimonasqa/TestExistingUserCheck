@@ -94,7 +94,7 @@ public class tests {
 	static String username="root";
 	static String db="automation_dev";
 	static String pass="mysql";*/
-  	static String servername="192.168.100.214";
+  	static String servername="172.17.242.114";
 	static String username="daniel";
 	static String db="automation_dev";
 	static String pass="daniel";
